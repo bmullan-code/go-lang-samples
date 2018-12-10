@@ -2,4 +2,5 @@
 **/vendor/
 **/Godeps/
 **/github.com/
+**/.DS_Store
 
