@@ -1,5 +1,5 @@
 ### Go Patch ###
-/vendor/
-/Godeps/
-/github.com/
+**/vendor/
+**/Godeps/
+**/github.com/
 
