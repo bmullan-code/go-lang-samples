@@ -1,0 +1,7 @@
+applications:
+- name: go_api
+  buildpack: https://github.com/cloudfoundry/go-buildpack.git
+  memory: 256M
+  env:
+     GOPACKAGENAME: go_api
+
